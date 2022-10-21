@@ -7,6 +7,7 @@ public class Sprint1 {
         System.out.println("Comentario Jhonatan Chavarro Arias");
         System.out.println("Comentario Eliana Mendoza Velásquez");
         System.out.println("Comentario Camilo Andrés Salazar Cañón");
+        System.out.println("Comentario Jennifer Tatiana Corredor Casas");
     }
 
 }
